@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "My_atempy2", "My_atempy2.pyproj", "{21426593-CA35-49C5-9098-93A59E29D816}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hours_indistance_calc", "..\hours_indistance_calc\hours_indistance_calc.pyproj", "{635853FF-9CB1-47E8-846D-0B42E37FFCB0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MPG", "..\MPG\MPG.pyproj", "{04FBE65F-8F37-4955-8A83-8DEEB52B8776}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "temp_effects_MPG", "..\temp_effects_MPG\temp_effects_MPG.pyproj", "{D8F089BD-DFAF-4027-902F-255E0AA77543}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hhh", "..\hhh\hhh.pyproj", "{1EC5709A-8875-4531-97B2-3C785F3FE417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21426593-CA35-49C5-9098-93A59E29D816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21426593-CA35-49C5-9098-93A59E29D816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635853FF-9CB1-47E8-846D-0B42E37FFCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635853FF-9CB1-47E8-846D-0B42E37FFCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FBE65F-8F37-4955-8A83-8DEEB52B8776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FBE65F-8F37-4955-8A83-8DEEB52B8776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F089BD-DFAF-4027-902F-255E0AA77543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F089BD-DFAF-4027-902F-255E0AA77543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC5709A-8875-4531-97B2-3C785F3FE417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC5709A-8875-4531-97B2-3C785F3FE417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73B8E33-8281-4A74-985D-7FE86401955D}
+	EndGlobalSection
+EndGlobal
